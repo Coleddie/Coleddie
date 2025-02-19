@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Yangfan Liu!
+## Hi there 👋
 - 💻 I'm a M.S student at Southwest Jiaotong University
 - 🔭 I’m currently learning and working on something
 - 📫 Email me at: [1318183775@qq.com](mailto:1318183775@qq.com)
